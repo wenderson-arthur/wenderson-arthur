@@ -1,89 +1,27 @@
+# Wenderson Arthur
 
-<h1 align="center">Hi, I'm Wenderson Arthur! 👋</h1>
+**Pesquisador em Visão Computacional e Processamento de Imagens**
 
-<h3 align="center">
-  AI Researcher | Machine Learning | Deep Learning
-</h3>
+Machine Learning e Deep Learning aplicados a imagens médicas, séries temporais e dados geotécnicos.
 
-<p align="center">
-  Exploring Artificial Intelligence through scientific
-  research and practical applications.
-</p>
+## Atuação
 
----
+- **Estágio Tecgraf/PUC-Rio:** Ciência de dados com machine learning e deep learning aplicados à séries temporais de dados geotécnicos.
+- **Iniciação Científica:** Análise de imagens termográficas para apoio ao diagnóstico da doença hepática esteatótica associada à disfunção metabólica (MASLD), com modelos temporais, espaciais e espaço-temporais, além de descritores clássicos de textura.
 
-### 👨‍💻 About Me
+## Publicações
 
-I'm an Artificial Intelligence researcher interested in
-developing intelligent systems and applying Machine Learning
-and Deep Learning to real-world problems.
+- **Classificação da Doença Hepática Esteatótica Associada a Disfunção Metabólica em Imagens Térmicas Utilizando Séries Temporais.** SBCAS 2026. [DOI](https://doi.org/10.5753/sbcas.2026.20720)
+- **Classification of Metabolic Dysfunction-Associated Steatotic Liver Disease Using a Thermal Heterogeneity Representation from Infrared Thermographic Images.** SIBGRAPI 2026. Best Paper da trilha de graduação.
 
-My research experience includes medical image analysis,
-infrared thermography, time series analysis, and predictive
-modeling.
+## Projeto em destaque
 
-- 🔬 Researcher in Artificial Intelligence
-- 🧠 Experience in Machine Learning and Deep Learning
-- 📚 Two first-author research publications in AI
-- 🏆 Best Paper Award — SIBGRAPI 2026
-- 💻 Interested in AI Engineering and applied research
+**[masld-thermal-timeseries](https://github.com/wenderson-arthur/masld-thermal-timeseries):** código do artigo do SBCAS, com Dilated-TCN, ConvNeXt, Max-ViT e Video Swin Transformer aplicados a sequências de termografias.
 
----
+## Tecnologias
 
-### 📄 Research & Publications
+Python · PyTorch · TensorFlow · scikit-learn · pandas · NumPy · SQL · Jupyter
 
-**1. Classification of Metabolic Dysfunction-Associated
-Steatotic Liver Disease Using a Thermal Heterogeneity
-Representation from Infrared Thermographic Images**
+## Contato
 
-- SIBGRAPI 2026
-- 🏆 Best Paper — Undergraduate Track
-- Conference proceedings pending publication.
-
-**2. Classificação da Doença Hepática Esteatótica
-Associada a Disfunção Metabólica em Imagens Térmicas
-Utilizando Séries Temporais**
-
-- SBCAS 2026
-- First-author publication.
-
----
-
-### 🛠️ Technologies & Tools
-
-**Programming**
-
-Python | SQL | Git
-
-**Machine Learning & Deep Learning**
-
-Scikit-learn | PyTorch | TensorFlow
-
-**Data Science**
-
-Pandas | NumPy | Matplotlib
-
-**Development Tools**
-
-Jupyter Notebook | GitHub
-
----
-
-### 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning Engineering
-- Deep Learning
-- Computer Vision
-- Medical Image Analysis
-- Generative AI
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/wenderson-arthur">
-    GitHub
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/arthur-dutra1) · [Currículo Lattes](http://lattes.cnpq.br/3546442885646580)
